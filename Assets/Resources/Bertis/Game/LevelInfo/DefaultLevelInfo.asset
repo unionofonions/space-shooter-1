@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36e716665d66b9a4db8c78df3092d01b, type: 3}
+  m_Name: DefaultLevelInfo
+  m_EditorClassIdentifier: 
+  m_Stages:
+  - m_PlayerGun: {fileID: 498419164051241862, guid: b8ffdecee75cc40408d9988b6164214b, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 15
+    m_SpawnInterval:
+      start: 0.6
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 9172318638221855626, guid: c7369d558650a5d4e8f7c045943d65bd, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 3463283160943251836, guid: b6acbf1150f2e24498c6479c509c0c40, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 3940392125898159513, guid: 63a8f2b1ffb3d644a8c35f1a8c19b893, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 17
+    m_SpawnInterval:
+      start: 0.6
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 2738160259427261906, guid: ad3b122ec84c4d14e83267fbd1daa0dd, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 3643397016879122799, guid: 3a359c704947efe4cbc974ae463219bb, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 5363599858979627465, guid: 883eeef058968a045842a0ffa21538f4, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 19
+    m_SpawnInterval:
+      start: 0.6
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 9219905574272346872, guid: 5c8a383fe9232c743a16a0e9f3391c62, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 5302747903501534548, guid: 7f2f3eae9649ed64b8e98688910a9a17, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 5418785538905389785, guid: 1ea63bddec8c435469fd43dba9ff54c7, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 20
+    m_SpawnInterval:
+      start: 0.5
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 7130833980339546527, guid: 47173bf7fdb89934a86f7b8a84fd6cad, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 1625092207288515774, guid: 290dc29dc6851b646b16f41a02ced069, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 5059630290523023510, guid: 06750a7076f0bd449a167a8097a1cecb, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 22
+    m_SpawnInterval:
+      start: 0.5
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 6770410853709498321, guid: fb4f9693de51053428bdf7f5bb2558c4, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 2089130093147251020, guid: 303491e0865b27245804b18721b291ac, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 7845106700727677308, guid: 57247864838586640be47fd114b17988, type: 3}
+    m_SpawnDelay: 0.5
+    m_SpawnCount: 22
+    m_SpawnInterval:
+      start: 0
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 3727354773588006504, guid: 6124c3aa0c72e884989946ea5d472f84, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 6757828557828665700, guid: 4f04bbfee7631a54a9cfd4ebb5176c05, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 2520914924709850157, guid: 65684f4ff04bc1e4887e95a299d83871, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 22
+    m_SpawnInterval:
+      start: 0.5
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 1951352839268154027, guid: d77304e3db8757e42b22e6d56cb74aa6, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 8784561360136741870, guid: 1527e770c2b8cdb4fbf5e6221ee6685c, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 5630726365468334856, guid: d05ac2a0d8326494d95585ef402fc127, type: 3}
+    m_SpawnDelay: 1
+    m_SpawnCount: 30
+    m_SpawnInterval:
+      start: 0.5
+      end: 2
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 5295088435734783740, guid: 218c3be9d24978d40a943fc068e048f5, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 2207304144601298868, guid: 97901f7ed318b9f409e498ba07e90581, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  - m_PlayerGun: {fileID: 4399408425358230924, guid: ef7aa161361767d47997c71435a3ee01, type: 3}
+    m_SpawnDelay: 0.5
+    m_SpawnCount: 30
+    m_SpawnInterval:
+      start: 0.3
+      end: 1.5
+    m_Satellites:
+      m_Collection:
+      - m_Value: {fileID: 1082348568962427953, guid: 363386d049b156149be5b3fea048ba81, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      - m_Value: {fileID: 5892676141428469713, guid: e6fee6ff8beb2a44282ab14ce0a20e81, type: 3}
+        m_Weight: 1
+        m_Chance: 50
+      m_TotalWeight: 2
+  m_ThemeMusic:
+    m_Library: {fileID: 11400000, guid: ad825e2b1745741409423db18f33301c, type: 2}
+    m_Id: 1

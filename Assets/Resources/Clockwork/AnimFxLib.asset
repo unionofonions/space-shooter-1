@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88a13013c769624aa7333815a19cce0, type: 3}
+  m_Name: AnimFxLib
+  m_EditorClassIdentifier: 
+  m_Default:
+    m_Name: __null
+    m_Id: 0
+    m_Valid: 0
+    m_Scheme: {fileID: 0}
+  m_Collection:
+  - m_Name: Explosion/1
+    m_Id: 1
+    m_Valid: 1
+    m_Scheme: {fileID: 3403549255762864011, guid: 4608e8a1962bd8e4e86d426f2f2cfbff, type: 3}
+  - m_Name: Explosion/2
+    m_Id: 2
+    m_Valid: 1
+    m_Scheme: {fileID: 9200387757038866655, guid: 8dc9b888f07056b46a1fb0afc1337c0e, type: 3}
+  - m_Name: Explosion/3
+    m_Id: 3
+    m_Valid: 1
+    m_Scheme: {fileID: 7700581690866835426, guid: 1da385b9975faed4187aa27a4a156d73, type: 3}
+  m_NextId: 3

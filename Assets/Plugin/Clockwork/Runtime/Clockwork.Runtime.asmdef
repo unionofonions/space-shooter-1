@@ -1,0 +1,16 @@
+{
+    "name": "Clockwork.Runtime",
+    "rootNamespace": "Clockwork.Runtime",
+    "references": [
+        "GUID:1e910fe2ffd1d5741b13b229bdcb7fbd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

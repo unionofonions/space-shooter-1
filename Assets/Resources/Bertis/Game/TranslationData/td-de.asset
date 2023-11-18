@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67c6a15ec14c1d46b39258b7934da03, type: 3}
+  m_Name: td-de
+  m_EditorClassIdentifier: 
+  m_KeywordTextPairs:
+  - m_Keyword: start
+    m_Text: START
+  - m_Keyword: settings
+    m_Text: EINSTELLUNGEN
+  - m_Keyword: help
+    m_Text: HILFE
+  - m_Keyword: quit
+    m_Text: BEENDED
+  - m_Keyword: paused
+    m_Text: PAUSIERT
+  - m_Keyword: continue
+    m_Text: FORTSETZEN
+  - m_Keyword: menu
+    m_Text: MENU
+  - m_Keyword: new-game
+    m_Text: NEUES SPIEL
+  - m_Keyword: game-over
+    m_Text: SPIEL VORBEI
+  - m_Keyword: new-record-achieved
+    m_Text: NEUER REKORD
+  - m_Keyword: item-acquired
+    m_Text: ITEM ERHALTEN
+  - m_Keyword: effect-volume
+    m_Text: EFFEKTLAUTSTARKE
+  - m_Keyword: music-volume
+    m_Text: MUSIKLAUTSTARKE
+  - m_Keyword: ui-volume
+    m_Text: UI-LAUTSTARKE
+  - m_Keyword: enable-camera-shake
+    m_Text: KAMERA-SCHUTTELN AKTIVIEREN
+  - m_Keyword: language
+    m_Text: SPRACHE
+  - m_Keyword: help-description
+    m_Text: Drehen Sie Ihr Schiff mit dem linken Analogstick und schieBen Sie mit
+      der rechten Taste auf dem Bildschirm. Im Laufe des Spiels erhalten Sie leistungsstarkere
+      Waffen, aber beachten Sie, dass auch die Feinde starker werden. Vermeiden Sie
+      Kollisionen mit Asteroiden, um Gesundheitspunkte zu behalten. Weichen Sie auBerdem
+      feindlichen Geschossen aus, indem Sie auf sie schieBen; dadurch werden die
+      Geschosse zerstort und Sie nehmen keinen Schaden.
+  - m_Keyword: highest-score
+    m_Text: HOCHSTER PUNKTESTAND

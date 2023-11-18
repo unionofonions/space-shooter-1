@@ -1,0 +1,18 @@
+{
+    "name": "Bertis.Test",
+    "rootNamespace": "Bertis.Test",
+    "references": [
+        "GUID:1e910fe2ffd1d5741b13b229bdcb7fbd",
+        "GUID:452a4e7ff95b0e44ba7a3cc69899b97e",
+        "GUID:936bddfbb3d1c2b46a4e761f25e10415"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

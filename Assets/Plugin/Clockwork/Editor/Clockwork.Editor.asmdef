@@ -1,0 +1,19 @@
+{
+    "name": "Clockwork.Editor",
+    "rootNamespace": "Clockwork.Editor",
+    "references": [
+        "GUID:1e910fe2ffd1d5741b13b229bdcb7fbd",
+        "GUID:452a4e7ff95b0e44ba7a3cc69899b97e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

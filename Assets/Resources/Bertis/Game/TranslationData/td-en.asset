@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67c6a15ec14c1d46b39258b7934da03, type: 3}
+  m_Name: td-en
+  m_EditorClassIdentifier: 
+  m_KeywordTextPairs:
+  - m_Keyword: start
+    m_Text: START
+  - m_Keyword: settings
+    m_Text: SETTINGS
+  - m_Keyword: help
+    m_Text: HELP
+  - m_Keyword: quit
+    m_Text: QUIT
+  - m_Keyword: paused
+    m_Text: PAUSED
+  - m_Keyword: continue
+    m_Text: CONTINUE
+  - m_Keyword: menu
+    m_Text: MENU
+  - m_Keyword: new-game
+    m_Text: NEW GAME
+  - m_Keyword: game-over
+    m_Text: GAME OVER
+  - m_Keyword: new-record-achieved
+    m_Text: NEW RECORD
+  - m_Keyword: item-acquired
+    m_Text: ITEM ACQUIRED
+  - m_Keyword: effect-volume
+    m_Text: EFFECT VOLUME
+  - m_Keyword: music-volume
+    m_Text: MUSIC VOLUME
+  - m_Keyword: ui-volume
+    m_Text: UI VOLUME
+  - m_Keyword: enable-camera-shake
+    m_Text: ENABLE CAMERA SHAKE
+  - m_Keyword: language
+    m_Text: LANGUAGE
+  - m_Keyword: help-description
+    m_Text: Rotate your ship using the left analog stick and shoot with the right
+      button on the screen. As you progress, you'll acquire more powerful guns, but
+      keep in mind that enemies will also become stronger. Avoid collisions with
+      asteroids to prevent losing health points. Additionally, steer clear of enemy
+      projectiles by firing back at them; doing so will destroy the projectiles and
+      prevent you from taking any damage.
+  - m_Keyword: highest-score
+    m_Text: HIGHEST SCORE

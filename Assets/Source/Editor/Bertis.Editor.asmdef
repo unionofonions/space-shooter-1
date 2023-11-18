@@ -1,0 +1,21 @@
+{
+    "name": "Bertis.Editor",
+    "rootNamespace": "Bertis.Editor",
+    "references": [
+        "GUID:1e910fe2ffd1d5741b13b229bdcb7fbd",
+        "GUID:b934e2ea4c9663e42bcc4ef31747a7bc",
+        "GUID:936bddfbb3d1c2b46a4e761f25e10415",
+        "GUID:139df90a67c053e409da7e8406f54a60"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67c6a15ec14c1d46b39258b7934da03, type: 3}
+  m_Name: td-es
+  m_EditorClassIdentifier: 
+  m_KeywordTextPairs:
+  - m_Keyword: start
+    m_Text: INICIAR
+  - m_Keyword: settings
+    m_Text: CONFIGURACION
+  - m_Keyword: help
+    m_Text: AYUDA
+  - m_Keyword: quit
+    m_Text: SALIR
+  - m_Keyword: paused
+    m_Text: PAUSADO
+  - m_Keyword: continue
+    m_Text: CONTINUAR
+  - m_Keyword: menu
+    m_Text: MENU
+  - m_Keyword: new-game
+    m_Text: NUEVO JUEGO
+  - m_Keyword: game-over
+    m_Text: JUEGO TERMINADO
+  - m_Keyword: new-record-achieved
+    m_Text: NUEVO RECORD
+  - m_Keyword: item-acquired
+    m_Text: ITEM ADQUIRIDO
+  - m_Keyword: effect-volume
+    m_Text: VOLUMEN DE EFECTOS
+  - m_Keyword: music-volume
+    m_Text: VOLUMEN DE MUSICA
+  - m_Keyword: ui-volume
+    m_Text: VOLUMEN DE IU
+  - m_Keyword: enable-camera-shake
+    m_Text: ACTIVAR VIBRACION DE CAMARA
+  - m_Keyword: language
+    m_Text: IDIOMA
+  - m_Keyword: help-description
+    m_Text: Gira tu nave usando la palanca analogica izquierda y dispara con el boton
+      derecho en la pantalla. A medida que avanzas, adquiriras armas mas poderosas,
+      pero ten en cuenta que los enemigos tambien se volveran mas fuertes. Evita
+      colisiones con asteroides para no perder puntos de salud. Ademas, esquiva los
+      proyectiles enemigos disparandoles; de esta manera, destruiras los proyectiles
+      y evitaras recibir dano.
+  - m_Keyword: highest-score
+    m_Text: PUNTUACION MAS ALTA

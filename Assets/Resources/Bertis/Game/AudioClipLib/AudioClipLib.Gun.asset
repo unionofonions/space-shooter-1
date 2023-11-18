@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de60047a99d73a04496a6805d49078db, type: 3}
+  m_Name: AudioClipLib.Gun
+  m_EditorClassIdentifier: 
+  m_Default:
+    m_Name: __null
+    m_Id: 0
+    m_Valid: 0
+    m_Asset: {fileID: 0}
+    m_AudioType: 0
+    m_Volume: 0
+  m_Collection:
+  - m_Name: Gun/1
+    m_Id: 1
+    m_Valid: 1
+    m_Asset: {fileID: 8300000, guid: dd3cfe39695ff014f8b5fb1497235e3e, type: 3}
+    m_AudioType: 0
+    m_Volume: 1
+  - m_Name: Gun/2
+    m_Id: 2
+    m_Valid: 1
+    m_Asset: {fileID: 8300000, guid: 9961191a16d5b5645b7d094dec330749, type: 3}
+    m_AudioType: 0
+    m_Volume: 0.2
+  - m_Name: Gun/3
+    m_Id: 3
+    m_Valid: 1
+    m_Asset: {fileID: 8300000, guid: 9961191a16d5b5645b7d094dec330749, type: 3}
+    m_AudioType: 0
+    m_Volume: 0.3
+  m_NextId: 4

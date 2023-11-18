@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de60047a99d73a04496a6805d49078db, type: 3}
+  m_Name: AudioClipLib.Impact
+  m_EditorClassIdentifier: 
+  m_Default:
+    m_Name: __null
+    m_Id: 0
+    m_Valid: 0
+    m_Asset: {fileID: 0}
+    m_AudioType: 0
+    m_Volume: 0
+  m_Collection:
+  - m_Name: Explosion/1
+    m_Id: 1
+    m_Valid: 1
+    m_Asset: {fileID: 8300000, guid: 9c527e34ed87a264fb4919b7ea8eca23, type: 3}
+    m_AudioType: 0
+    m_Volume: 0.6
+  - m_Name: Explosion/2
+    m_Id: 2
+    m_Valid: 1
+    m_Asset: {fileID: 8300000, guid: c8420d6bad38305488cf3f6679b5415c, type: 3}
+    m_AudioType: 0
+    m_Volume: 0.6
+  m_NextId: 4

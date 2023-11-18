@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67c6a15ec14c1d46b39258b7934da03, type: 3}
+  m_Name: td-tr
+  m_EditorClassIdentifier: 
+  m_KeywordTextPairs:
+  - m_Keyword: start
+    m_Text: BASLA
+  - m_Keyword: settings
+    m_Text: AYARLAR
+  - m_Keyword: help
+    m_Text: YARDIM
+  - m_Keyword: quit
+    m_Text: CIKIS
+  - m_Keyword: paused
+    m_Text: DURAKLATILDI
+  - m_Keyword: continue
+    m_Text: DEVAM ET
+  - m_Keyword: menu
+    m_Text: MENU
+  - m_Keyword: new-game
+    m_Text: YENI OYUN
+  - m_Keyword: game-over
+    m_Text: OYUN BITTI
+  - m_Keyword: new-record-achieved
+    m_Text: YENI REKOR
+  - m_Keyword: item-acquired
+    m_Text: YENI ESYA
+  - m_Keyword: effect-volume
+    m_Text: EFEKT SESI
+  - m_Keyword: music-volume
+    m_Text: MUZIK SESI
+  - m_Keyword: ui-volume
+    m_Text: ARAYUZ SESI
+  - m_Keyword: enable-camera-shake
+    m_Text: KAMERA SARSINTISI ETKIN
+  - m_Keyword: language
+    m_Text: DIL
+  - m_Keyword: help-description
+    m_Text: Ekranin sol analog cubugunu kullanarak geminizi dondurun ve ekranin sag
+      butonu ile ates edin. Ilerledikce daha guclu silahlar elde edeceksiniz, ancak
+      unutmayin ki dusmanlar da daha guclu olacak. Saglik puanlarini kaybetmemek
+      icin asteroid carpismalarindan kacinin. Ayrica, dusman mermilerinden uzak durmak
+      icin onlara geri ates edin; bu, mermileri yok eder ve size herhangi bir zarar
+      gelmez.
+  - m_Keyword: highest-score
+    m_Text: EN YUKSEK SKOR
